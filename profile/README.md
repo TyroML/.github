@@ -11,3 +11,5 @@ We use gitflow workflow for managing git branches. If you're not familliar with 
 ## Various technologies
 
 <img src="img/icons/gcp.svg" height=60px> **Google Cloud**
+<img src="img/icons/docker.svg" height=60px> **Docker**
+<img src="img/icons/kubernetes.svg" height=60px> **Kubernetes**
