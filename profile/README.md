@@ -31,7 +31,7 @@ We use gitflow workflow for managing git branches. If you're not familliar with 
 <img src="img/icons/kubernetes.svg" height=50px> **Kubernetes** &nbsp;&nbsp;
 <img src="img/icons/docker.svg" height=50px> **Docker** &nbsp;&nbsp;
 <img src="img/icons/grafana.svg" height=50px> **Grafana** &nbsp;&nbsp;
-<img src="img/icons/terraform.svg" height=50px> **Terraform** &nbsp;&nbsp;
+<img src="img/icons/terraform.png" height=50px> **Terraform** &nbsp;&nbsp;
 
 ### Others
 
