@@ -13,3 +13,6 @@ We use gitflow workflow for managing git branches. If you're not familliar with 
 <img src="img/icons/gcp.svg" height=60px> **Google Cloud** &nbsp;&nbsp;
 <img src="img/icons/docker.svg" height=60px> **Docker** &nbsp;&nbsp;
 <img src="img/icons/kubernetes.svg" height=60px> **Kubernetes** &nbsp;&nbsp;
+<img src="img/icons/python.svg" height=60px> **Python** &nbsp;&nbsp;
+<img src="img/icons/git.svg" height=60px> **Git** &nbsp;&nbsp;
+<img src="img/icons/mlflow.svg" height=60px> **mlflow** &nbsp;&nbsp;
