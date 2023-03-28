@@ -10,6 +10,8 @@ We use gitflow workflow for managing git branches. If you're not familliar with 
 
 ## Various technologies
 
+<img src="img/icons/javascript.svg" height=50px> **JavaScript** &nbsp;&nbsp;
+<img src="img/icons/react.svg" height=50px> **React** &nbsp;&nbsp;
 <img src="img/icons/gcp.svg" height=50px> **Google Cloud** &nbsp;&nbsp;
 <img src="img/icons/docker.svg" height=50px> **Docker** &nbsp;&nbsp;
 <img src="img/icons/kubernetes.svg" height=50px> **Kubernetes** &nbsp;&nbsp;
