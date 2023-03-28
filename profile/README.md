@@ -16,5 +16,6 @@ We use gitflow workflow for managing git branches. If you're not familliar with 
 <img src="img/icons/python.svg" height=50px> **Python** &nbsp;&nbsp;
 <img src="img/icons/git.svg" height=50px> **Git** &nbsp;&nbsp;
 <img src="img/icons/mlflow.png" height=50px> **mlflow** &nbsp;&nbsp;
-<img src="img/icons/fastapi.png" height=50px> **FastAPI** &nbsp;&nbsp;
-<img src="img/icons/postgres.png" height=50px> **PostgreSQL** &nbsp;&nbsp;
+<img src="img/icons/fastapi.svg" height=50px> **FastAPI** &nbsp;&nbsp;
+<img src="img/icons/postgres.svg" height=50px> **PostgreSQL** &nbsp;&nbsp;
+<img src="img/icons/grafana.svg" height=50px> **Grafana** &nbsp;&nbsp;
