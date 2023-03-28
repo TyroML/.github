@@ -1,6 +1,6 @@
 # Welcome to the team 👋
 
-<img src="img/icons/gitflow.svg">
+<img src="img/icons/mlops.png">
 
 ## Branch policies
 
