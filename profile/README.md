@@ -24,6 +24,7 @@ We use gitflow workflow for managing git branches. If you're not familliar with 
 ### ML
 
 <img src="img/icons/mlflow.png" height=50px> **mlflow** &nbsp;&nbsp;
+<img src="img/icons/kserve.png" height=50px> **KServe** &nbsp;&nbsp;
 
 ### DevOps
 
