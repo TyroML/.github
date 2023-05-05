@@ -8,5 +8,6 @@
 
 | DOCUMENTATION      |   URL    |
 |-------|-------|
-|project  | https://mlops-knds.github.io/
-|backend  | https://mlops-knds.github.io/backend/
+|Project  | https://mlops-knds.github.io/
+|Backend - Code | https://mlops-knds.github.io/backend/
+|Backend - API | https://mlops-knds.github.io/backend-swagger/
