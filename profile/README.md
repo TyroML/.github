@@ -1,3 +1,4 @@
+🦖
 ![](https://github.com/MLOps-KNDS/devops/actions/workflows/terraform.yaml/badge.svg)
 ![](https://github.com/MLOps-KNDS/devops/actions/workflows/deployment.yaml/badge.svg)
 [![Backend: Code Documentation](https://github.com/MLOps-KNDS/backend/actions/workflows/code-documentation.yaml/badge.svg)](https://github.com/MLOps-KNDS/backend/actions/workflows/code-documentation.yaml)
