@@ -11,4 +11,3 @@
 |Project  | https://tyroml.github.io/
 |Backend - Code | https://tyroml.github.io/backend/
 |Backend - API | https://tyroml.github.io/backend-swagger/
-|Database - Diagram | https://dbdiagram.io/d/643027ad8615191cfa8c34e2
