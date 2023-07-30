@@ -15,8 +15,12 @@
 
 ## Development
 
+<div align="center">
+  
 | [Project Documentation](https://tyroml.github.io/) | [API Documentation](https://tyroml.github.io/backend-swagger/) | [Backend Documentation](https://tyroml.github.io/backend/) |
-|-------|-------|-------|
+|:---:|:---:|:---:|
+
+</div>
 
 ### Tech Stack
 
